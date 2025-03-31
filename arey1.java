@@ -1,0 +1,2 @@
+public class arey1 {
+}
