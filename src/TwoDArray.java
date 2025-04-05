@@ -17,13 +17,13 @@ public class TwoDArray {
             new int[]{4,5,6},
             new int[]{7,8,9}
         };
-        System.out.println(Arrays.deepToString(dash));
+
 
         int[][] marks ={{20,30,40}, {50,60,70}, {80,90,100}};
 
-
-        System.out.println(Arrays.deepToString(nums2));
         System.out.println(Arrays.deepToString(timetable));
+        System.out.println(Arrays.deepToString(nums2));
+        System.out.println(Arrays.deepToString(dash));
         lopp2D(marks);
     }
 
