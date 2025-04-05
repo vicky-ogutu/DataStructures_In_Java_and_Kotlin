@@ -12,6 +12,13 @@ public class TwoDArray {
         nums2[0][0]=10;
         nums2[0][1]=20;
 
+        int[][] dash=new int[][]{
+            new int[]{1,2,3},
+            new int[]{4,5,6},
+            new int[]{7,8,9}
+        };
+        System.out.println(Arrays.deepToString(dash));
+
         int[][] marks ={{20,30,40}, {50,60,70}, {80,90,100}};
 
 
