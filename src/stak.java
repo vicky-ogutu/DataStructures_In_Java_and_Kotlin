@@ -13,7 +13,7 @@ public class stak {
         System.out.println(s.pop());
         System.out.println(s.size());
         System.out.println(s.empty());
-        System.out.println(s.search(30));
+        System.out.println(s.search(10));
 
     }
 }
